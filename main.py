@@ -15,7 +15,7 @@ sdw2023_api_url = 'https://sdw-2023-prd.up.railway.app'
 # 3. Clique em "Create API Key"
 # Link direto: https://platform.openai.com/account/api-keys
 
-openai_api_key = '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'
+openai_api_key = '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'
 
 print("-----------------------<<ID DO USUÁRIO>>-----------------------")
 df = pd.read_csv('SDW2023.csv')
